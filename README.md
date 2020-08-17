@@ -7,7 +7,6 @@
     $ mkdir themes
     $ cd themes
     $ git submodule add https://github.com/halogenica/beautifulhugo.git beautifulhugo
-    
 
 See [the Hugo documentation](https://gohugo.io/themes/installing/) for more information.
 
